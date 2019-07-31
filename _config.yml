@@ -1,0 +1,6 @@
+name: Advanced Introduction to Computer Science
+description: Class Website 2019
+url: "http://cs.itrack.studio"
+markdown: kramdown
+
+theme: jekyll-theme-leap-day
